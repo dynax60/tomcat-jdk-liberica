@@ -1,1 +1,1 @@
-Unofficial image for Tomcat on Liberica OpenJDK.
+Unofficial alpine image for Tomcat on Liberica OpenJDK.
